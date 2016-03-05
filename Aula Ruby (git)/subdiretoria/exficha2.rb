@@ -1,1 +1,2 @@
-nova alteração
+alterações feitas pelo branch exercicio1
+
